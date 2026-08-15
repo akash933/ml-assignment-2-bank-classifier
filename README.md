@@ -63,7 +63,7 @@ classes are imbalanced.
 > 🔗 **https://github.com/<your-username>/ml-assignment-2-bank-classifier**
 > *(TODO: will replace it post testing it)*
 
-**Live Streamlit App:** 🔗 **https://<your-app-name>.streamlit.app** *(replace after deployment)*
+**Live Streamlit App:** 🔗 **https://<your-app-name>.streamlit.app** *(TODO: add streamlit app details here)*
 
 ### Repository structure
 
