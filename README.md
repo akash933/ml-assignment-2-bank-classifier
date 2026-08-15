@@ -60,8 +60,7 @@ classes are imbalanced.
 
 ## c. GitHub Repository Link
 
-> 🔗 **https://github.com/<your-username>/ml-assignment-2-bank-classifier**
-> *(TODO: will replace it post testing it)*
+> 🔗 **https://github.com/akash933/ml-assignment-2-bank-classifier**
 
 **Live Streamlit App:** 🔗 **https://<your-app-name>.streamlit.app** *(TODO: add streamlit app details here)*
 
