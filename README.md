@@ -62,8 +62,7 @@ classes are imbalanced.
 
 > 🔗 **https://github.com/akash933/ml-assignment-2-bank-classifier**
 
-**Live Streamlit App:** 🔗 **https://<your-app-name>.streamlit.app** *(TODO: add streamlit app details here)*
-
+**Live Streamlit App:** 🔗 **https://ml-assignment-2-bank-classifier-padaszvkebxmdd2hpgy6fb.streamlit.app/** 
 ### Repository structure
 
 ```
